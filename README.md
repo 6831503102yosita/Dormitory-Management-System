@@ -71,11 +71,11 @@ java Main
 
 ## 🧑‍🤝‍🧑 Member
 
-Rapkwuan Supawan
-Suthada Sirinaphaphen
-Patchaporn Chuangchotchanalai
-Yosita Prabpala
-Sayamol Aenpanya
+- Rapkwuan Supawan
+- Suthada Sirinaphaphen
+- Patchaporn Chuangchotchanalai
+- Yosita Prabpala
+- Sayamol Aenpanya
 
 ---
 
